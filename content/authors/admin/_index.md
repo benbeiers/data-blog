@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ben Beiers
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Recent Graduate from Williams College
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Williams College
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: With prior work in politics, finance, and education, I am passionate about using data to catalyze social good.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
+#- Domestic and International Politics
+#- Machine
 #- Information Retrieval
 
 #education:
@@ -40,18 +40,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: mailto:ben.beiers@gmail.com  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/ben-beiers/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/benbeiers
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -62,7 +65,6 @@ social:
 #- Researchers
 #- Visitors
 ---
+I recently graduated from Williams College majoring in Mathematics and Political Science, with a concentration in Leadership Studies. I am passionate about problem solving and have applied this to a variety of fields through internships with Morgan Stanley, the Millennial Action Project, and Congressman Ro Khanna's Office. I have also co-founded a tech-based educational nonprofit which used community service hours as a currency to match students and tutors, a platform that won a LinkedIn Grant for Innovation.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my spare time, I love to play sports and stay active. I was a captain of the Williams College Golf Team and know what successful teamwork looks like. 
