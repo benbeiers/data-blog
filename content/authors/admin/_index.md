@@ -16,10 +16,10 @@ role: Recent Graduate from Williams College
 # Short bio (displayed in user profile at end of posts)
 bio: With prior work in politics, finance, and education, I am passionate about using data to catalyze social good.
 
-#interests:
-#- Domestic and International Politics
-#- Machine
-#- Information Retrieval
+interests:
+- Domestic and International Politics
+- Maps and GIS
+- Health, Fitness, and Athletics
 
 #education:
 #  courses:
@@ -57,7 +57,8 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "ben.beiers@gmail.com"
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
