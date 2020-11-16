@@ -2,11 +2,11 @@
 # Introduce the blog.
 widget = "starter.blog.intro"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "Ben's Blog"
-subtitle = "Data for good"
+title = "Ben Beiers"
+subtitle = "Blogging on all things finance, politics, and sports"
 
 [design.background]
   # Background color.
