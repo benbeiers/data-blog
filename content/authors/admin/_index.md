@@ -6,7 +6,7 @@ title: Ben Beiers
 superuser: true
 
 # Role/position
-role: Recent from Williams College
+role: Recent Graduate from Williams College
 
 # Organizations/Affiliations
 #organizations:
