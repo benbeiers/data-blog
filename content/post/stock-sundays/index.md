@@ -1,5 +1,5 @@
 ---
-title: Stock Sundays: 11/15/2020
+title: Stock Sundays - 11/15/2020
 subtitle: A foray into algorithmic trading
 summary: Each week, I post large-cap stocks poised for a strong run using a technicals-based algorithm
 authors:
