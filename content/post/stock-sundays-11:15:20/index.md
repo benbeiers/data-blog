@@ -26,7 +26,7 @@ image:
 projects: ["Stock Sundays"]
 ---
 
-I've written an R program that uses Moving Average ratios paired with Relative Strength Index to find large-cap stocks with strong momentum at optimal buying times. In a weekly blog series, I will give my program's "pick of the week" in addition to its favorite stock from each GICS sector, since equity movement is highly correlated to sector movement. Each post will update how the picks have performed relative to sector indices, a strong indicator of success.
+I've written an R program that uses Moving Average ratios weighted by Relative Strength Index to find large-cap stocks with strong momentum at optimal buying times. In a weekly blog series, I will give my program's "pick of the week" in addition to its favorite stock from every other GICS sector. Each post after this one will update how the stocks have performed relative to sector indices, a strong indicator of success.
 
 ## Pick of the week: Fedex (FDX)
 
