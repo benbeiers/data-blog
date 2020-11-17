@@ -1,13 +1,13 @@
 ---
-title: Stock-Pick Sundays
+title: Stock Sundays: 11/15/2020
 subtitle: A foray into algorithmic trading
-summary: Each week, I will post large-cap stocks poised for a strong run using a technicals-based algorithm
+summary: Each week, I post large-cap stocks poised for a strong run using a technicals-based algorithm
 authors:
 - admin
 tags: []
 categories: []
 date: "2019-11-15T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+lastMod: "2019-11-17T00:00:00Z"
 featured: false
 draft: false
 
@@ -23,70 +23,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [""]
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+I've written an R program that uses moving-average ratios paired with a stock's relative-strength index to find large-cap stocks with strong momentum at optimal buying times. In each blog post, I will give my program's "pick of the week" in addition to my program's favorite stock from each GICS sector, since equity movement is so tied to sector. Each post will update how the picks have performed relative to sector indices, a strong indicator of success.
 
+## Pick of the week: FDX
 
-
-
+Hello let's test this
 ![png](./FDX11.16.2020.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
+As you can see, FDX is on a strong general uptrend, suffering a recent pullback. RSI has dropped below 50, representing a strong time to get in on the action blah blah blah
