@@ -1,15 +1,15 @@
 ---
-title: Stock Sundays - 11/15/2020
+title: Stock Sundays Introduction
 subtitle: A foray into algorithmic trading
 summary: Each week, I post large-cap stocks poised for a strong run using a technicals-based algorithm
 authors:
 - admin
-tags: []
+tags: ["stock-sunday"]
 categories: []
-date: "2019-11-15T00:00:00Z"
-lastMod: "2019-11-17T00:00:00Z"
+date: "2019-11-14T00:00:00Z"
+lastMod: "2019-11-14T00:00:00Z"
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -31,8 +31,6 @@ I've written an R program that uses Moving Average ratios paired with a stock's 
 ## Pick of the week: FDX
 
 My algorithm's pick of the week is Fedex. A stock that has performed strongly during COVID and nearly tripled from its March lows, Fedex saw its 50 day moving average cross its 200 day moving average in July and hasn't looked back. The last two weeks has seen a pullback of ~7% from all-time highs, opening a window of opportunity for prospective investors. Fedex's RSI has fallen to 58 after three months in the "overbought" range, above 70.
-
-![png](./FDX11.16.2020.png)
 
 ## 
 
