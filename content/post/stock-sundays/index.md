@@ -23,7 +23,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [""]
+projects: []
 ---
 
 I've written an R program that uses moving-average ratios paired with a stock's relative-strength index to find large-cap stocks with strong momentum at optimal buying times. In each blog post, I will give my program's "pick of the week" in addition to my program's favorite stock from each GICS sector, since equity movement is so tied to sector. Each post will update how the picks have performed relative to sector indices, a strong indicator of success.
