@@ -30,7 +30,7 @@ I've written an R program that uses Moving Average ratios paired with Relative S
 
 ## Pick of the week: Fedex (FDX)
 
-My algorithm's pick of the week is Fedex. An Industrials stock that has performed strongly during COVID and nearly tripled from its March lows, Fedex saw its 50 day moving average cross its 200 day moving average in July and hasn't looked back. The last two weeks has seen a pullback of ~7% from all-time highs, opening a window of opportunity for prospective investors. Fedex's RSI has fallen to 58 after three months in the "overbought" range, above 70.
+My algorithm's pick of the week is Fedex. An Industrials stock that has performed strongly during COVID and nearly tripled from its March lows, Fedex saw its 50 day moving average cross its 200 day moving average in July and hasn't looked back. The last two weeks has seen a pullback of ~7% from all-time highs, opening a window of opportunity for prospective investors. Fedex's RSI has fallen to 58 after three months in the "overbought" range above 70.
 
 ![png](./FDX11.15.2020.png)
 
