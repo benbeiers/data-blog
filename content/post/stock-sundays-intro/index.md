@@ -51,4 +51,5 @@ symbols_table <- sp500_wiki %>%
 industry_table <- symbols_table[[1]]$'GICS Sector'
 symbol_table <- symbols_table[[1]]$Symbol
 SPXstocks <- Map(c, symbol_table, industry_table)
+return(SPXstocks)
 ```
