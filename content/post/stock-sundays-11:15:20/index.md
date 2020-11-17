@@ -48,7 +48,7 @@ My algorithm's pick of the week is Fedex. An Industrials stock that has performe
 
 ## Communication Services: Twitter Inc (TWTR)
 
-![png](./TWTR11.15.2020.png)
+![png](./TWTR11.15.20.png)
 
 ## Financials: Progressive Corp (PGR)
 
