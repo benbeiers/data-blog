@@ -37,7 +37,7 @@ subtitle = ""
     link = "post/"
     
 [design]
-  columns = "1"
+  columns = "3"
   
   # Toggle between the various page layout types.
   #   1 = List
