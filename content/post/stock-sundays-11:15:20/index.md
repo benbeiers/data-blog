@@ -62,9 +62,13 @@ My algorithm's pick of the week is Fedex. An Industrials stock that has performe
 
 ![png](./PEG11.15.2020.png)
 
-## Materials: Prologis Inc (PLD)
+## Real Estate: Prologis Inc (PLD)
 
 ![png](./PLD11.15.2020.png)
+
+## Materials: The Mosaic Company (MOS)
+
+![png](./MOS11.15.2020.png)
 
 ## Energy: Williams Companies Inc (WMB)
 
