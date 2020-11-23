@@ -27,7 +27,7 @@ projects: ["Stock Sundays"]
 ---
 ## What to Expect
 
-In a blog series, I will post weekly stocks chosen by an R program that analyzes S&P 500 stocks for short term technical signals. Every Sunday, I will post my algorithm's favorite "stock of the week" with a writeup in addition to its preferred stock from each of the other ten GICS sectors. Since equity movement is highly correlated with equity movement within its broader sector, I will measure my algorithm's performance in comparison sector indices. Every post after the first will also recap the previous trading week and how my program's stocks fared relative to their sector and the market.
+In a blog series, I will post weekly stocks chosen by an R program that analyzes S&P 500 stocks for short term technical signals. Every Sunday, I will post my algorithm's favorite "stock of the week" with a writeup in addition to its preferred stock from each of the other ten GICS sectors. Since equity movement is highly correlated with equity movement within its broader sector, I will measure my algorithm's performance in comparison sector indices. Every post after the first will also recap the previous trading week and how my program's stocks fared relative to their sector and the market. The S&P 500 was chosen as the primary benchmark because this algorithm only considers stocks within it.
 
 ## R Program Methodology
 
