@@ -30,7 +30,7 @@ I've written an R program that uses Moving Average ratios weighted by Relative S
 
 ## Recap
 
-Week one was a huge success, largely due to huge weeks from L Brands (LB) and The Mosaic Company (MOS). Fedex, my algorithm's pick of the week, rose over a percentage point on optimism that heightened demand will continue through 2021. Just six of eleven stock picks found themselves in the negative for the week, despite the S&P 500 declining 1.66%. Here's how the individual stocks performed:
+Week one was a strong success, largely due to huge weeks from L Brands (LB) and The Mosaic Company (MOS). Fedex, my algorithm's pick of the week, rose over a percentage point on optimism that heightened demand will continue through 2021. Just six of eleven stock picks found themselves in the negative for the week, despite the S&P 500 declining 1.66%. Here's how the individual stocks performed:
 
 ![png](./11.15.2020IndividualStockReturns.png)
 
@@ -60,7 +60,7 @@ My algorithm's pick of the week is Quanta Services Inc, an Industrial stock that
 
 ## Communication Services: Netflix Inc (NFLX)
 
-![png](./Comms11.22.20.png)
+![png](./Comms11.22.2020.png)
 
 ## Financials: Progressive Corp (PGR)
 
