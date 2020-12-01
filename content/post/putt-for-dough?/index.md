@@ -8,7 +8,7 @@ tags: ["Golf"]
 categories: []
 date: "2019-11-30T00:00:00Z"
 lastMod: "2019-11-30T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -27,7 +27,7 @@ projects: ["Golf"]
 ---
 ## Introduction
 
-Does the old saying, "drive for show, putt for dough" still hold true in professional golf? Bryson Dechambeau, a polarizing figure widely viewed as golf's "mad scientist", seems to disagree. He's decided to put on over fifty pounds of (mostly) muscle and is now driving the ball a record average of 344.4 yards in the 2021 season, outdriving all of his peers by over 13 yards. While his absurd diet (7 protein shakes a day?!) and body transformation are unique, they embody a larger trend in professional golf: PGA tour professionals are chasing distance like never before. Many debates have stemmed from this trend, many focused on limiting distance through equipment regulations. I've decided to tackle this question on distance with a regression-driven analysis on PGA tour data from 2010-2018.
+Does the old saying, "drive for show, putt for dough" still hold true in professional golf? Bryson Dechambeau, a polarizing figure widely viewed as golf's "mad scientist", seems to disagree. He's decided to put on over fifty pounds of (mostly) muscle and is now driving the ball a record average of 344.4 yards in the 2021 season, outdriving all of his peers by over 13 yards. While his absurd diet (7 protein shakes a day?!) and body transformation are unique, they embody a larger trend in professional golf: PGA tour professionals are chasing distance like never before. Debates have stemmed from this trend, many focused on limiting distance through equipment regulations. I've decided to tackle this question on distance with a regression-driven analysis on PGA tour data from 2010-2018.
 
 ## One key assumption about "Success"
 
@@ -35,7 +35,7 @@ Athletic success can be defined in many ways, especially in a sport like golf. A
 
 ## Are golfers getting longer?
 
-When considering the impact of distance on today's PGA tour, it's important to first consider if the data supports the very existence of the trend. After scraping data from the PGA tour website from 2010-2018, first I had to clean it by converting NA's to zero and ensuring that all data types were the same. The following code achieved this, creating two datasets: one including all players' seasons from 2010-2018, and another that takes away outlier seasons. Removing outliers evens the positive skewness of the data and allows for an analysis of more-general trends on tour.
+When considering the impact of distance on today's PGA tour, it's important to first consider if the data supports the very existence of the trend. After scraping data from the PGA tour website from 2010-2018, first I had to clean it by converting NAs to zero and ensuring that all data types were the same. The following code achieved this, creating two datasets: one including all players' seasons from 2010-2018, and another that takes away outlier seasons. Removing outliers evens the positive skewness of the data and allows for an analysis of more-general trends on tour.
 
 ```r
 pgaData$Money <- as.numeric(pgaData$Money)
@@ -80,7 +80,7 @@ Pro golfers have a finite amount of practice and gym time, so they need to pick 
 
 As an initial test, I've checked the correlation coefficient of each SG variable. SG approach had the strongest individual correlation, followed closely by SG off the tee, with SG putting third and SG around the greens last. This initial test suggested that approach could matter more than off-the-tee, but still showed that ball-striking is more closely correlated to earnings than short game.
 
-The best way to understand why pro golfers view distance as so important is to build a model, inputting skills, that outputs expected earnings. So, I started off by narrowing down the full PGA data with outliers removed to only include skill data and money, setting all NA's to zero. I also split this into response, and explanatory variables.
+The best way to understand why pro golfers view distance as so important is to build a model, inputting skills, that outputs expected earnings. So, I started off by narrowing down the full PGA data with outliers removed to only include skill data and money, setting all NAs to zero. I also split this into response, and explanatory variables.
 
 ```r
 skillData <- noOutlierPGAData[, !names(pgaData) %in% c("Top.10", "Wins", 
