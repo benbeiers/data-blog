@@ -1,7 +1,7 @@
 ---
 title: Drive for Show, Putt for Dough?
-subtitle: An analysis on what skills matter most for professional golf
-summary: A regression-driven analysis on what skills are most important to professional golf.
+subtitle: An analysis on what matters most in professional golf
+summary: A regression-driven analysis on what skills are most important for professional golf success.
 authors:
 - admin
 tags: ["Golf"]
@@ -13,8 +13,8 @@ draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: featured.jpg
-  caption: Bryson Dechambeau's body transformation.
+image:
+  caption:
   focal_point: ""
 
 # Projects (optional).
