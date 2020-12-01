@@ -8,13 +8,13 @@ tags: ["Golf"]
 categories: []
 date: "2019-11-30T00:00:00Z"
 lastMod: "2019-11-30T00:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption:
+  caption: ""
   focal_point: ""
 
 # Projects (optional).
