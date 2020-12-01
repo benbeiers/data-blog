@@ -14,7 +14,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Bryson Dechambeau's transformation"
+  caption: "Bryson Dechambeau's transformation."
   focal_point: ""
 
 # Projects (optional).
