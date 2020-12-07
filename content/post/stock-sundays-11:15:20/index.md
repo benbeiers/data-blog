@@ -14,7 +14,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: "Pick of the week: Fedex"
   focal_point: ""
 
 # Projects (optional).
