@@ -78,7 +78,7 @@ My algorithm's pick of the week is the same as last week: Gap Inc, a Consumer Di
 
 ![png](./Estate12.06.2020.png)
 
-## Materials: Calanese Corporation (CE)
+## Materials: Celanese Corporation (CE)
 
 ![png](./Materials12.06.2020.png)
 
